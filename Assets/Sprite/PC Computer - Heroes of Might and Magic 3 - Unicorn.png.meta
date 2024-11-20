@@ -1,0 +1,3595 @@
+fileFormatVersion: 2
+guid: a7a723f602a3c9b42b7b579fdde9e2fc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1232
+        width: 78
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72dc34aa52d75347ad98d9e4e52b152
+      internalID: 1699172423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1232
+        width: 77
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5060245f3e01f9f47b8016bffc3eb4a6
+      internalID: -1812508954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1232
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118be4ed965df3c478a38b34553c2795
+      internalID: -713510894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_3
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1232
+        width: 76
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6056ac742e6ce2b419dd79d451a80680
+      internalID: -1250890020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_4
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1232
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e9e1c83d9abc74a8605932c8dea79f
+      internalID: 648518038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_5
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1232
+        width: 86
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633d30d5d196bda4f9ab38b692030ddf
+      internalID: 984374609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_6
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1232
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0980f67eee57149a47b5a53483bf64
+      internalID: 1911857554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1093
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ab02da056b022489b9ff3e647ae517
+      internalID: 365427510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_8
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1093
+        width: 110
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d8e1f4ecc13f24789cf3a5c9197f34
+      internalID: 1716772057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_9
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1093
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b7435a04f23c54db0c07c61e3d9253
+      internalID: 1775799798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_10
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1095
+        width: 115
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8ceae8cd0d0724eb5a919a6388f695
+      internalID: 231755986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1094
+        width: 117
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c121aa2ea2fb47a44b8520820854a424
+      internalID: -546835854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_12
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1094
+        width: 119
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a06b77ce8c74c4ba0643b2f9a274af
+      internalID: 1165686838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_13
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1094
+        width: 113
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b022173664ed8b44a640cba120cd061
+      internalID: 745261982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 937
+        width: 109
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445f32358bce7c6499b077a54e3bfcd5
+      internalID: -179839643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 937
+        width: 88
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc75d809030c3441a3ae7a743854965
+      internalID: -1162355127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_16
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 937
+        width: 65
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47036106f6cf86640b64567d37bb5767
+      internalID: 243132096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_17
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 941
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ba9c3f1a5c3f54a84af899983eb3ca
+      internalID: -1107519943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_18
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1012
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b97943b108dc64280fb8638e25c52d
+      internalID: -1580518415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_19
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1012
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57729b8e4cc41940a3e43a023396537
+      internalID: -1826254435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_20
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1012
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921c85921f27b3a4d931bc9fbc849e0e
+      internalID: 498169534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_21
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1012
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87b9333cbb5dbe4f8a1822f9f69d16e
+      internalID: -435939519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_22
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1012
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a83626853074341bdb7d389d7189d8
+      internalID: 1865325738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_23
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 915
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1ed50b07fa0494fa1dbe996ba6e7b4
+      internalID: 534217997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_25
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 968
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26986a2f65750ef46b1b0fc375444288
+      internalID: 820544469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_26
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 968
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262c33420df360345a29a07870357444
+      internalID: -71114404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_27
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 968
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d50f92fa11ba14e9b5f1038c4515ac
+      internalID: -891385475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_28
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 968
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7710554c4c94e047b083bf8082656a7
+      internalID: 872532043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_29
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 968
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66075aa56d344ee4cb7c9c3df72f077b
+      internalID: 2095267755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_30
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 968
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eedcc9373c1d4f4da943f69ff1b7707
+      internalID: 311956684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_31
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 936
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8420c001efd9e67498d75234aa419b2b
+      internalID: -1508268607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_32
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 936
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b20ef0551db53b4bb71da20d7328a4b
+      internalID: -529008425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_33
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 936
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8976406c89cccb743a90acfc8caccd26
+      internalID: 67116143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_34
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 936
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b035197b726c904cbdeb8f5f9136799
+      internalID: 1893096070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_35
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 936
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aabc2f27479ce4a91fcc8037fa9020
+      internalID: -545713596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_36
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 936
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5479c6369edf70a4392ca9f105f774cb
+      internalID: -463770033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_37
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 936
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f43d3beec8a25449a924bb58536e970
+      internalID: -1119313578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_38
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 936
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b905cc4fb9df5449fad7afac6e0867
+      internalID: -1004590301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_39
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 936
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0d3ba8828dcc34bb1dc5b992d9b4f9
+      internalID: 1982266371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_40
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 933
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e534a3b032821479bc78e5b7ec6ccc
+      internalID: 804869356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_41
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 936
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b53bc83eebab764eb9fb165272988c4
+      internalID: 82199035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_42
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 936
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc29ae5037d09c4ab92e713a11b185d
+      internalID: -585555620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_43
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 936
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69598ec57e1ae7c448bbc305a010fe80
+      internalID: -481682905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_44
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 936
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfe25dc500ff0f46aa4bfdcaf745cdc
+      internalID: -467897750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_45
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 936
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672d842e78793574a8ee494ec0183183
+      internalID: -1714826769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_46
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 936
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5a23e0c81d31c4abaf810219fdbe07
+      internalID: 964123879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_47
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 936
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da336f88ed402ec46a02e7e9259023ae
+      internalID: -864759045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_48
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 933
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3181fca4845904990b796f5195ebcd
+      internalID: -185699306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_49
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 936
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578db2c8f866f8c42aeca611e1839539
+      internalID: 1329151850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_50
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 920
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0493e8ab6b758284f94d96aa4897c740
+      internalID: -838325911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_51
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 920
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acccf8f4252afa04da720827d91020f6
+      internalID: 960508996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_52
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 918
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a9e36276fc7e540997acc7e21f4ede
+      internalID: -325803182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_53
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 920
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2300c77eb25943e44bee6b67c835abb2
+      internalID: -1107858871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_54
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 920
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e905a8c71a1c0964eaf87761b64e1728
+      internalID: 1583467706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_55
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 920
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d8b3fbe2451354485742dd0b372e7b
+      internalID: -1656060063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_56
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 917
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e60990431f5d8641a77f777cca2c0da
+      internalID: 533687395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_57
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 920
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a803ce77ff9b1624fbc1b9de68a73e79
+      internalID: -1414011608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_58
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 920
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c32a156c2802448b61a85e50132555
+      internalID: 943148214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_59
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 920
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6056b7036d359e343ab509e28e99208f
+      internalID: -1737498313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_60
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 920
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6379de9cdaa9440499059a05ad2d9a1e
+      internalID: -441021236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_61
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 920
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b6d0e0530612d42ab941991f98d035
+      internalID: -13770198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_62
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 920
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2dac729d9dc004ca481d3c00f7446a
+      internalID: -1574024764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_63
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 920
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4285d94e3bbd646a754a4b15f1af7b
+      internalID: -462886687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_64
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 920
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de7b7538df9d5f468094171b6ff1add
+      internalID: 396727869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_65
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 777
+        width: 80
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed0dd2903ffc1a4b9a95c6109ce4021
+      internalID: -715465069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_66
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 777
+        width: 89
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ff3186bdf2aaf4d83e9b4fc5c7e99b
+      internalID: -1461336328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_67
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 736
+        width: 127
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601ca96efbb2d7549840eab484914fc8
+      internalID: 1594362860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_68
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 789
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67923dfd9e2e8f748984488d3163b853
+      internalID: 1318963460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_69
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 776
+        width: 98
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953e16b1f9ba87c4a809cbe4c9bb22c6
+      internalID: 1901822948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_70
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 791
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3300a47949682ed42ba756ffda1286e0
+      internalID: -1309296452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_71
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 776
+        width: 102
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8ace7ae66394c41bdec1af509a58b8
+      internalID: 739442099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_72
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 776
+        width: 146
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293f61e1be185c44da0529985fffe0a6
+      internalID: 1105385429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_73
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 777
+        width: 132
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbca14896e5f02746bedf6e7a2bf5e07
+      internalID: -1190382165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_74
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 630
+        width: 81
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d797e037cc56d4091621f5d93e7913
+      internalID: 978818521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_75
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 629
+        width: 90
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a635d0c70f1909f4da83e953cfef3a6a
+      internalID: -2053808537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_76
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 553
+        width: 119
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae135007d14908469e59940628c9c44
+      internalID: -1088238972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_77
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 649
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1050acd7f32ebcd41afa50d45159c2c6
+      internalID: -1192002246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_78
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 633
+        width: 135
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5108d86b567ba640968460ecc8cb497
+      internalID: 829497432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_79
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 626
+        width: 135
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc3ffd3386d6ab429063e42edfb09d0
+      internalID: 593879278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_80
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 648
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355154da1f4e779458ad56d9d77f9508
+      internalID: -1518298254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_81
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 633
+        width: 139
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bebca1e7b116a149b0c68c4db355678
+      internalID: -1095890961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_82
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 630
+        width: 137
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3215d77b749d1b448bc4586358e6c790
+      internalID: 37748189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_83
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 643
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452fa809de5d6d1469186748732b7949
+      internalID: -123191536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_84
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 479
+        width: 91
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5728e92bc93ff4ea70a494b38fbcbd
+      internalID: 1056811130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_85
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 479
+        width: 92
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f07b2157caf2440ad55bbb4def5139
+      internalID: 2011165769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_86
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 498
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b513ea33840f90541b9481d6e756bf26
+      internalID: -912183828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_87
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 480
+        width: 101
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f7d7bde552cb5478810f05609d22b1
+      internalID: 1579632188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_88
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 501
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b1c9552ea980540816c45cfad79cf3
+      internalID: 629137229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_89
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 467
+        width: 94
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cc25f5bc0ec494ba4fff3c55775d44
+      internalID: 114907128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_90
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 463
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc93e6631b48bd341a11ab214c1f69a8
+      internalID: -1395328447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_91
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 498
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04e31043b1139c49813e78af3bf8726
+      internalID: 1237230941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_92
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 467
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aea93d243a20641ae1cac4cc245b5f
+      internalID: -1188270480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_93
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 479
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf925d34fe9f0a46b18dfdbca18c08b
+      internalID: -458346448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_94
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 316
+        width: 93
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da24d69cb8dab584e902009f46fe8848
+      internalID: -1598101744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_95
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 316
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1d7a1db631ab04f9ce5986c661544d
+      internalID: -1473746069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_96
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 316
+        width: 120
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498158a9d144bdb46960524092abf595
+      internalID: 583864606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_97
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 263
+        width: 125
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e4c06b421d49d4ea4e8ec078f67f9f
+      internalID: -1842943007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_98
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 316
+        width: 126
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11754fb4362658a47b6360eb24f38589
+      internalID: 1592694431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_99
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 392
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439164670b2ef834a9b1dc403fc52388
+      internalID: 267038453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_100
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 389
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e77360547a80a34b8cb1b0cde1b7b61
+      internalID: 1405408310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_101
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 389
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c12f86f8a02204bb00cbdb253c4188
+      internalID: -1418786959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_102
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 392
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e352fd6af5ec54385985b63fc3f612
+      internalID: -68010415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_103
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 392
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836a137a5fa66784b96bef5c8abf8976
+      internalID: 602682242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_104
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 392
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38932097c31c0124ea90a163667b1614
+      internalID: 1765860699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_105
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 389
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83fa7f11b7c3e1409fc920370c11632
+      internalID: -1050562667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_106
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 339
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf794fc59e6adb49ad309d3cdd6c6a4
+      internalID: 2081293468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_107
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 371
+        width: 124
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac93be3f03aa6945ad525a508c4e8fe
+      internalID: 117833025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_108
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 374
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc734e06cd909d14ea0c0902334eebb7
+      internalID: -1025666634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_109
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 374
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab3f6ba5673e9c46bedc3ac2d96cfd3
+      internalID: -737164643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_110
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 374
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8592ea11e0b94834780323e7819054b4
+      internalID: 1429919421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_111
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 374
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f303533271b06ea46ae93ad2df57ddf9
+      internalID: 1692260535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_112
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 358
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7d35389c6cb9c4ba52ca9cdc08a60f
+      internalID: 339113539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_113
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 358
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6102e351d8ecc43aba2cc319af3c01
+      internalID: -937749444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_114
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 358
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2cf0f0bc1218741a639f266adfe1a8
+      internalID: -1506415828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_115
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 358
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7814607a74beeaa48b6d90f7b2f3e86f
+      internalID: 1507931631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_116
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 355
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615f22094bc5ca74a9c8d583b5817ef5
+      internalID: 322878595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_117
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 358
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e9a1fc47e36c44abddde1175830238
+      internalID: 1541551374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_118
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 358
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d12fa93c8844741a198ee4e7d5e86b
+      internalID: -239867786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_119
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 358
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed2c7e551e910a48a9256760864b5e3
+      internalID: -1361914850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_120
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 356
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e861ef87074ead1439905c0d3718a385
+      internalID: 1111812746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_121
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 355
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869236b7c531e894b8c14ae45440753d
+      internalID: 1768148358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_122
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 358
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84797d4db8d71b84f8c472bc93a7af11
+      internalID: 467842321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_123
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 358
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3706d769ad0b14f99fe0e78a34b607
+      internalID: -92368790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_124
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 358
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9b1163013170c43bea1761a02791b7
+      internalID: 240451070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_125
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 358
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3007fa8dc843a24cb810a5637b70734
+      internalID: 350021985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_126
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 358
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfd2758b1525f74d8f8eeeceec3510f
+      internalID: -405467625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_127
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 339
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0876c5c0f1e474986a744522a4cdfb
+      internalID: -852300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_128
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 342
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fc03cfd707b3d4db714316faf92e2e
+      internalID: 1458931198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_129
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 342
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6aca9f6e0b2514d919be09b487433f
+      internalID: 1958578203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_130
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 342
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42c6f667b9935e40a2830535566607e
+      internalID: 1052921229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_131
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 342
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9107c5bb9a4b4e04dad136ddeb0576f1
+      internalID: -878083933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_132
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 339
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8506a18091dfa40b68fcfd22d62bbe
+      internalID: 245138282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_133
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 342
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543daf1edd1b32c4099e4a2aaba22dfa
+      internalID: -1251168714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_134
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 342
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcecb172b0b730940b50af4513a3653f
+      internalID: 763522505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_135
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 342
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5879bd0b199a64b8f0e17b2e4ff651
+      internalID: 1162316607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_136
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 342
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ce376a5f9631e41ab84c445547d35a
+      internalID: 520076105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_137
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 342
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c0f629f02ad34489e68ef490b5414d
+      internalID: -561141881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_138
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 342
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff195ff44a25254bbde0f12e0eb4c44
+      internalID: -11361652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_139
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 342
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fee79cd0c17024aa56e5e00e1bc920
+      internalID: 2100169955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_140
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 169
+        width: 85
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae31ddeb410686043a91bf781cf0c857
+      internalID: 1464615544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_141
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 170
+        width: 92
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3c4bf807bd49745b4c9de19a183932
+      internalID: 2143632314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_142
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 170
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6b00d19b0e9fb4a8401a6cabdec11a
+      internalID: 411803903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_143
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 182
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc6b1d6cef4b8a499e801b7169e76af
+      internalID: -1727177544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_144
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 169
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53987cf880c577b47b142ecb312e261d
+      internalID: 379724217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_145
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 169
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79931f41a066f4a42bd9a7d9c2e467fd
+      internalID: -992179777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_146
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 169
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cd1bf280fffc248b4562a6b0427823
+      internalID: 2019316326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_147
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 173
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234d77a364c01564b992fddf69c966bf
+      internalID: 1215970317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_148
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 14
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26182292b2e3a7846a9d1ab76af0adbe
+      internalID: -888329383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_149
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 29
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdc7eb4ed3ce5747a56f6c129c81c27
+      internalID: 408381550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_150
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 14
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b153dd92cf09a64284f9782351682a3
+      internalID: 190450243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_151
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 32
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d9002ec497a404584d54645c96df25
+      internalID: -1352175036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_152
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 18
+        width: 83
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088c9c22532e8b6448d8a1d997826391
+      internalID: -1092706488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_153
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 32
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b93b47779f080d45a49d9177daf96e6
+      internalID: -1378257204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_154
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 19
+        width: 81
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68761896ba8681a4ab15d5223d9e7449
+      internalID: -426726132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_155
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 19
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2de0aab217bbf41bf6897247c16d0a
+      internalID: -1701783216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_156
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 20
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caa60c36c7c3f84eaa48dc776b3d56e
+      internalID: -592595523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Unicorn_157
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 21
+        width: 84
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f772a7ffdf1f8e147b1e44f2a489ae48
+      internalID: 2080439239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 07ebaf2e2867e7d4194f69fcc53bc50d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_0: 1699172423
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_1: -1812508954
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_10: 231755986
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_100: 1405408310
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_101: -1418786959
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_102: -68010415
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_103: 602682242
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_104: 1765860699
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_105: -1050562667
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_106: 2081293468
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_107: 117833025
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_108: -1025666634
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_109: -737164643
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_11: -546835854
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_110: 1429919421
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_111: 1692260535
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_112: 339113539
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_113: -937749444
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_114: -1506415828
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_115: 1507931631
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_116: 322878595
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_117: 1541551374
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_118: -239867786
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_119: -1361914850
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_12: 1165686838
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_120: 1111812746
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_121: 1768148358
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_122: 467842321
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_123: -92368790
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_124: 240451070
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_125: 350021985
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_126: -405467625
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_127: -852300450
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_128: 1458931198
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_129: 1958578203
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_13: 745261982
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_130: 1052921229
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_131: -878083933
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_132: 245138282
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_133: -1251168714
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_134: 763522505
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_135: 1162316607
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_136: 520076105
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_137: -561141881
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_138: -11361652
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_139: 2100169955
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_14: -179839643
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_140: 1464615544
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_141: 2143632314
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_142: 411803903
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_143: -1727177544
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_144: 379724217
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_145: -992179777
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_146: 2019316326
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_147: 1215970317
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_148: -888329383
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_149: 408381550
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_15: -1162355127
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_150: 190450243
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_151: -1352175036
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_152: -1092706488
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_153: -1378257204
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_154: -426726132
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_155: -1701783216
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_156: -592595523
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_157: 2080439239
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_16: 243132096
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_17: -1107519943
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_18: -1580518415
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_19: -1826254435
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_2: -713510894
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_20: 498169534
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_21: -435939519
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_22: 1865325738
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_23: 534217997
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_24: -808941509
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_25: 820544469
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_26: -71114404
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_27: -891385475
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_28: 872532043
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_29: 2095267755
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_3: -1250890020
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_30: 311956684
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_31: -1508268607
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_32: -529008425
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_33: 67116143
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_34: 1893096070
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_35: -545713596
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_36: -463770033
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_37: -1119313578
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_38: -1004590301
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_39: 1982266371
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_4: 648518038
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_40: 804869356
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_41: 82199035
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_42: -585555620
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_43: -481682905
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_44: -467897750
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_45: -1714826769
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_46: 964123879
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_47: -864759045
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_48: -185699306
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_49: 1329151850
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_5: 984374609
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_50: -838325911
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_51: 960508996
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_52: -325803182
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_53: -1107858871
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_54: 1583467706
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_55: -1656060063
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_56: 533687395
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_57: -1414011608
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_58: 943148214
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_59: -1737498313
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_6: 1911857554
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_60: -441021236
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_61: -13770198
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_62: -1574024764
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_63: -462886687
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_64: 396727869
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_65: -715465069
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_66: -1461336328
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_67: 1594362860
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_68: 1318963460
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_69: 1901822948
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_7: 365427510
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_70: -1309296452
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_71: 739442099
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_72: 1105385429
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_73: -1190382165
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_74: 978818521
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_75: -2053808537
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_76: -1088238972
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_77: -1192002246
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_78: 829497432
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_79: 593879278
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_8: 1716772057
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_80: -1518298254
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_81: -1095890961
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_82: 37748189
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_83: -123191536
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_84: 1056811130
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_85: 2011165769
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_86: -912183828
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_87: 1579632188
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_88: 629137229
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_89: 114907128
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_9: 1775799798
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_90: -1395328447
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_91: 1237230941
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_92: -1188270480
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_93: -458346448
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_94: -1598101744
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_95: -1473746069
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_96: 583864606
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_97: -1842943007
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_98: 1592694431
+      PC Computer - Heroes of Might and Magic 3 - Unicorn_99: 267038453
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
