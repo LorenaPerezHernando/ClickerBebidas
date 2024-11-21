@@ -50,7 +50,7 @@ public class PoolSystem : MonoBehaviour
 		yield return new WaitForSeconds(duration);
 		pointsObject.gameObject.SetActive(false);
 		_pointsPool.Enqueue(pointsObject);
-		//Debug.Log("Total pool objects: " + _pointsPool.Count);
+		Debug.Log("Total pool objects: " + _pointsPool.Count);
 	}
 	#endregion
 

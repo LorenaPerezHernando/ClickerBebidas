@@ -18,6 +18,7 @@ public class SlotButtonUI : MonoBehaviour
 		set {
 			_clicksLeft = value;
 			//REWARD TIME!!!
+			
 			if (_clicksLeft <= 0 && _stock > 0)
 			{
 
@@ -118,12 +119,12 @@ public class SlotButtonUI : MonoBehaviour
 		ClicksLeft -= clickCount;
 		RefreshClicksText();
 		Camera.main.DOShakePosition(Mathf.Clamp(0.01f * clickCount, 0, 2));
-		//if (!agent)
-		////{
-		////	PointsElementUI newPoints = _game.Pool.GetPoints();
-		////	newPoints.Initialize(transform);
-		////	_game.RainParticles();
-		////}
+		if (!agent)
+		{
+			PointsElementUI newPoints = _game.Pool.GetPoints();
+			newPoints.Initialize(transform);
+			_game.RainParticles();
+		}
 	}
 
 	private void RefreshClicksText()

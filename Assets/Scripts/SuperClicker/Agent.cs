@@ -42,8 +42,8 @@ public class Agent : MonoBehaviour
 		destiny.Click(1, true);
 		//Only Angel
    
-		if (destiny.ClicksLeft < 0 && gameObject != null)
-			Destroy(gameObject); // LUEGO INTENTA VOLVER A ACCEDER A EL, ¿Desactivar? 
+		//if (destiny.ClicksLeft < 0 && gameObject != null)			
+		//	Destroy(gameObject); // LUEGO INTENTA VOLVER A ACCEDER A EL, ¿Desactivar? 
 	}
 
 	// Update is called once per frame
