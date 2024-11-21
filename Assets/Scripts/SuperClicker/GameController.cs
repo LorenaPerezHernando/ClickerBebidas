@@ -12,6 +12,7 @@ public class GameController : MonoBehaviour
 	#endregion
 
 	#region Fields
+	[SerializeField] private RewardPanel s_rewardPanel;
 	[SerializeField] private Agent[] _agents;
 	[SerializeField] private TextMeshProUGUI _rewardText;
 	[SerializeField] private TextMeshProUGUI _clicksText;
@@ -23,6 +24,10 @@ public class GameController : MonoBehaviour
 	#endregion
 
 	#region Unity Callbacks
+	void Awake()
+	{
+		s_rewardPanel = GetComponent<RewardPanel>();
+	}
 	// Start is called before the first frame update
 	void Start()
     {
@@ -72,13 +77,26 @@ public class GameController : MonoBehaviour
 
 		if (reward.RewardType == RewardType.Agent)
 		{
-			if(reward.Value == 0)
+			if(reward.Value >= 0 && reward.Value < _agents.Length)
 			{
-				if(reward.ObjectReward != null)
+                    Vector3 agentPosition = transform.position;
+                if (reward.Value == 0) // Mover al Unicornio para que se vea en el juego
+                {
+                    s_rewardPanel.RewardPrimerAngel();
+                }
+                if (reward.Value == 1) // Mover al Unicornio para que se vea en el juego
+                {
+					s_rewardPanel.RewardPrimerUnicornio();
+                }
+                if (reward.ObjectReward != null)
 				{
 					Agent newAgent = Instantiate(_agents[(int)reward.Value],transform.position, Quaternion.identity);
-					if(newAgent != null)
-					newAgent.destiny = reward.ObjectReward;
+                    if (newAgent != null)
+					{
+
+						newAgent.transform.position = new Vector3(agentPosition.x, agentPosition.y, -200f);
+						newAgent.destiny = reward.ObjectReward;
+					}
 
 				}
                 

@@ -9,6 +9,11 @@ public class RewardPanel : MonoBehaviour
 {
     private int clickCount;
 
+    [Header("---Text Agents ---")]
+    [SerializeField] private TextMeshProUGUI t_angel;
+    [SerializeField] private TextMeshProUGUI t_unicornio;
+    [SerializeField] private TextMeshProUGUI t_pajaro;
+
     [Header("---Text Logros ---")]
     [SerializeField] private TextMeshProUGUI t_100Clicks;
     [SerializeField] private TextMeshProUGUI t_1000Clicks;
@@ -75,7 +80,15 @@ public class RewardPanel : MonoBehaviour
         if (time > 3600)
             t_onehour.color = Color.black;
 
+    }
 
+    public void RewardPrimerAngel()
+    {
+        t_angel.color = Color.black;
+    }
 
+    public void RewardPrimerUnicornio()
+    {
+        t_unicornio.color = Color.black;
     }
 }

@@ -54,9 +54,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8e96ac25ea05ce43a4c28d73a201ecc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  outofStockClip: {fileID: 0}
+  rewardClip: {fileID: 0}
   Reward:
     <RewardType>k__BackingField: 0
     <Value>k__BackingField: 1
+    <ObjectReward>k__BackingField: {fileID: 0}
   _initialClicks: 4
   _clickButton: {fileID: 2901906461518640806}
   _clicksText: {fileID: 3077628711124991477}
@@ -315,8 +318,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4282597669
+  m_fontColor: {r: 0.14370473, g: 0.2541384, b: 0.26415092, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
