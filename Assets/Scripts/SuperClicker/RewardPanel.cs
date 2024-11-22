@@ -50,13 +50,13 @@ public class RewardPanel : MonoBehaviour
             clickCount++;
         
             if (clickCount == 100)
-                t_100Clicks.color = Color.black;
+                t_100Clicks.color = Color.yellow;
             if (clickCount == 1000)
-                t_1000Clicks.color = Color.black;
+                t_1000Clicks.color = Color.yellow;
             if (clickCount == 10000)
-                t_10kClicks.color = Color.black;
+                t_10kClicks.color = Color.yellow;
             if (clickCount == 100000)
-                t_100kClicks.color = Color.black;
+                t_100kClicks.color = Color.yellow;
         }
         
         //Rows Count
@@ -68,27 +68,27 @@ public class RewardPanel : MonoBehaviour
             rowsFinished++;
 
         if (rowsFinished == 1)
-            t_firstRow.color = Color.black;
+            t_firstRow.color = Color.yellow;
         if (rowsFinished == 2)
-            t_secondRow.color = Color.black;
+            t_secondRow.color = Color.yellow;
         if (rowsFinished == 3)
-            t_thirdRow.color = Color.black;
+            t_thirdRow.color = Color.yellow;
 
 
         time += Time.deltaTime;
 
         if (time > 3600)
-            t_onehour.color = Color.black;
+            t_onehour.color = Color.yellow;
 
     }
 
     public void RewardPrimerAngel()
     {
-        t_angel.color = Color.black;
+        t_angel.color = Color.yellow;
     }
 
     public void RewardPrimerUnicornio()
     {
-        t_unicornio.color = Color.black;
+        t_unicornio.color = Color.yellow;
     }
 }

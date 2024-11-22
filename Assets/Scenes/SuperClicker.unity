@@ -9329,6 +9329,7 @@ GameObject:
   - component: {fileID: 2006130955}
   - component: {fileID: 2006130958}
   - component: {fileID: 2006130959}
+  - component: {fileID: 2006130960}
   m_Layer: 0
   m_Name: GameController
   m_TagString: Untagged
@@ -9499,6 +9500,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2006130960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2006130952}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2343cd6cf9975104c988d8ace2d2632d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &2028512418
 PrefabInstance:
   m_ObjectHideFlags: 0
